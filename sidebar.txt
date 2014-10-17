@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tpt:home|Door43 (tpt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tpt|d43-tpt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tpt/archive/master.zip|d43-tpt.zip]]
+
+**Recent Changes**
+{{changes>ns = tpt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tpt|Ethnologue data]]
+
